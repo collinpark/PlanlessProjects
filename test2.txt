@@ -1,1 +1,2 @@
 its just a test for modified, stage, commit status.
+its modified for test
