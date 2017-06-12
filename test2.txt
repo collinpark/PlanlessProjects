@@ -1,7 +1,10 @@
 its just a test for modified, stage, commit status.
 
+this is a master branch test
+this is a master branch test
+this is a master branch test
+this is a master branch test
 
-this is a master branch test
-this is a master branch test
-this is a master branch test
-this is a master branch test
+Create a Brnach for testing
+=> merged a branch test2.txt into master
+
